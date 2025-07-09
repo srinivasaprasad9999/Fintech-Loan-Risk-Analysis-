@@ -5,6 +5,8 @@ Problem Statement:
 ## Dataset
 <a href="https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/content/data-analytics/Datasets_DA_Track/Capstone_2B_Dataset.zip"> Dataset</a>
 
+## Project-Report
+<a href="file:///C:/Users/srini/AppData/Local/Temp/Power%20BI%20Desktop/print-job-8f286811-6a8f-4edb-9516-1b13fa03e4ae/Fintech%20Loan%20Risk.pdf"> Fintech-Loan-Risk-report</a>
 
 ## Questions Related to Problem Statement:
 1.How much % of defaulters are there in the application table ?
